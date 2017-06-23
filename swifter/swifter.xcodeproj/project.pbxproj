@@ -22,14 +22,14 @@
 		A2E555261EFD29110001357E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A2E555291EFD29110001357E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A2E5552B1EFD29110001357E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A2E555321EFD2A340001357E /* 01_SimpleValues.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 01_SimpleValues.playground; sourceTree = "<group>"; };
-		A2E555331EFD5EE00001357E /* 02_ControlFlow.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 02_ControlFlow.playground; sourceTree = "<group>"; };
-		A2E555341EFD5EE00001357E /* 03_FunctionsAndClosures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 03_FunctionsAndClosures.playground; sourceTree = "<group>"; };
-		A2E555351EFD5EE00001357E /* 04_ObjectsAndClasses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 04_ObjectsAndClasses.playground; sourceTree = "<group>"; };
-		A2E555361EFD5EE00001357E /* 05_EnumerationsAndStructures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 05_EnumerationsAndStructures.playground; sourceTree = "<group>"; };
-		A2E555371EFD5EE00001357E /* 06_ProtocolsAndExtensions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 06_ProtocolsAndExtensions.playground; sourceTree = "<group>"; };
-		A2E555381EFD5EE00001357E /* 07_ErrorHandling.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 07_ErrorHandling.playground; sourceTree = "<group>"; };
-		A2E555391EFD5EE00001357E /* 08_Generics.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 08_Generics.playground; sourceTree = "<group>"; };
+		A2E555441EFD6A510001357E /* 01_SimpleValues.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 01_SimpleValues.playground; sourceTree = "<group>"; };
+		A2E555451EFD6A510001357E /* 02_ControlFlow.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 02_ControlFlow.playground; sourceTree = "<group>"; };
+		A2E555461EFD6A510001357E /* 03_FunctionsAndClosures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 03_FunctionsAndClosures.playground; sourceTree = "<group>"; };
+		A2E555471EFD6A510001357E /* 04_ObjectsAndClasses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 04_ObjectsAndClasses.playground; sourceTree = "<group>"; };
+		A2E555481EFD6A510001357E /* 05_EnumerationsAndStructures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 05_EnumerationsAndStructures.playground; sourceTree = "<group>"; };
+		A2E555491EFD6A510001357E /* 06_ProtocolsAndExtensions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 06_ProtocolsAndExtensions.playground; sourceTree = "<group>"; };
+		A2E5554A1EFD6A510001357E /* 07_ErrorHandling.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 07_ErrorHandling.playground; sourceTree = "<group>"; };
+		A2E5554B1EFD6A510001357E /* 08_Generics.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 08_Generics.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,7 +46,7 @@
 		A2E555131EFD29110001357E = {
 			isa = PBXGroup;
 			children = (
-				A2E555311EFD2A340001357E /* section-1 */,
+				A2E555431EFD6A390001357E /* aSwiftTour */,
 				A2E5551E1EFD29110001357E /* swifter */,
 				A2E5551D1EFD29110001357E /* Products */,
 			);
@@ -73,20 +73,20 @@
 			path = swifter;
 			sourceTree = "<group>";
 		};
-		A2E555311EFD2A340001357E /* section-1 */ = {
+		A2E555431EFD6A390001357E /* aSwiftTour */ = {
 			isa = PBXGroup;
 			children = (
-				A2E555321EFD2A340001357E /* 01_SimpleValues.playground */,
-				A2E555331EFD5EE00001357E /* 02_ControlFlow.playground */,
-				A2E555341EFD5EE00001357E /* 03_FunctionsAndClosures.playground */,
-				A2E555351EFD5EE00001357E /* 04_ObjectsAndClasses.playground */,
-				A2E555361EFD5EE00001357E /* 05_EnumerationsAndStructures.playground */,
-				A2E555371EFD5EE00001357E /* 06_ProtocolsAndExtensions.playground */,
-				A2E555381EFD5EE00001357E /* 07_ErrorHandling.playground */,
-				A2E555391EFD5EE00001357E /* 08_Generics.playground */,
+				A2E555441EFD6A510001357E /* 01_SimpleValues.playground */,
+				A2E555451EFD6A510001357E /* 02_ControlFlow.playground */,
+				A2E555461EFD6A510001357E /* 03_FunctionsAndClosures.playground */,
+				A2E555471EFD6A510001357E /* 04_ObjectsAndClasses.playground */,
+				A2E555481EFD6A510001357E /* 05_EnumerationsAndStructures.playground */,
+				A2E555491EFD6A510001357E /* 06_ProtocolsAndExtensions.playground */,
+				A2E5554A1EFD6A510001357E /* 07_ErrorHandling.playground */,
+				A2E5554B1EFD6A510001357E /* 08_Generics.playground */,
 			);
-			name = "section-1";
-			path = "../section-1";
+			name = aSwiftTour;
+			path = ../aSwiftTour;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
