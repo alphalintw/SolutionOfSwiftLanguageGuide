@@ -22,6 +22,7 @@
 		A2E555261EFD29110001357E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A2E555291EFD29110001357E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A2E5552B1EFD29110001357E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A2E555321EFD2A340001357E /* 01_SimpleValues.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 01_SimpleValues.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +39,7 @@
 		A2E555131EFD29110001357E = {
 			isa = PBXGroup;
 			children = (
+				A2E555311EFD2A340001357E /* section-1 */,
 				A2E5551E1EFD29110001357E /* swifter */,
 				A2E5551D1EFD29110001357E /* Products */,
 			);
@@ -62,6 +64,15 @@
 				A2E5552B1EFD29110001357E /* Info.plist */,
 			);
 			path = swifter;
+			sourceTree = "<group>";
+		};
+		A2E555311EFD2A340001357E /* section-1 */ = {
+			isa = PBXGroup;
+			children = (
+				A2E555321EFD2A340001357E /* 01_SimpleValues.playground */,
+			);
+			name = "section-1";
+			path = "../section-1";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -302,6 +313,7 @@
 				A2E555301EFD29110001357E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
