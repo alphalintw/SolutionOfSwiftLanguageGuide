@@ -1,4 +1,3 @@
-
 // EXPERIMENT
 // Create a constant with an explicit type of Float and a value of 4.
 
@@ -14,7 +13,3 @@ let explicitFloat = 4
 
 let name = "Kent"
 let greeting = "Hello, \(name). Do you know how much is \(1.0 + 3.14) ?"
-
-
-
-
