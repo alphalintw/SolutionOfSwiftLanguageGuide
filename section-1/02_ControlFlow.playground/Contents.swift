@@ -63,8 +63,3 @@ for (kind, numbers) in interestingNumbers {
     }
 }
 print(largestKind)
-
-
-
-
-
