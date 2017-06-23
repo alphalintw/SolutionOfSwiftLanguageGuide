@@ -82,10 +82,7 @@ let clubs = SuitWithColor.clubs
 let clubsColor = clubs.color()
 
 // EXPERIMENT
-// Add a method to Card that creates a full deck of
-// cards, with one card of each combination of rank
-// and suit
-// Editors note: We will create a new Deck struct to hold this method instead of adding it to Card.
+// Add a method to Card that creates a full deck of cards, with one card of each combination of rank and suit.
 
 struct Card {
     var rank: Rank
